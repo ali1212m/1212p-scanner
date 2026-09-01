@@ -26,8 +26,6 @@ Make sure you are on Kali Linux and have the following basic tools installed:
 ```bash
 git clone https://github.com/ali1212m/1212p-scanner.git
 
-**2. Navigate to the tool's folder:**
-```bash
 cd 1212p-scanner
 
 chmod +x 1212p.py
