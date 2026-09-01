@@ -24,4 +24,4 @@ Make sure you are on Kali Linux and have the following basic tools installed:
 
 **1. Clone the repository to your machine:**
 ```bash
-git clone (https://github.com/YourUsername/1212p-scanner.git)
+git clone https://github.com/ali1212m/1212p-scanner.git
